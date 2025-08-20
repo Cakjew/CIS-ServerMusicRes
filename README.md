@@ -37,7 +37,7 @@
 - もぺもぺ `maobamaoba_`
 - 覆灭重生 Come Alive `comealive_`
 - 不虚此行 On the Journey `onthejourney_`
-- Neon Light Therapy `neonlighttherapy`
+- Neon Light Therapy `neonlighttherapy_`
 
 ## 指令
 
