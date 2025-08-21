@@ -18,7 +18,7 @@
 - 冬の花 `fuyunohana_`
 - 嗵嗵 `tongtong_`
 - 雑踏、僕らの街 `zattoubokuranomati_`
-- see you again（炸 `seeyouagain_1`
+~~- see you again（炸 `seeyouagain_1`~~
 - 拂晓Proi Proi `fuxiaoproiproi_`
 - DESTRUCTION3,2,1 `destruction321_`
 - 迷你世界原曲 OST-Remix `miniworld_`
@@ -38,6 +38,9 @@
 - 覆灭重生 Come Alive `comealive_`
 - 不虚此行 On the Journey `onthejourney_`
 - Neon Light Therapy `neonlighttherapy_`
+- Lemon `lemon_`
+- 缸 `gang_`
+- はいよろこんで `haiyorokonde_`
 
 ## 指令
 
