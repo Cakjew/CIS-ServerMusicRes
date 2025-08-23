@@ -1,0 +1,282 @@
+{
+  "kaiko_": {
+    "category": "record",
+    "sounds": [{
+      "name": "kaiko",
+	  "stream": true
+    }]
+  },
+  "zombie_1": {
+    "category": "record",
+    "sounds": [{
+      "name": "zombie1",
+	  "stream": true
+    }]
+  },
+  "buriki_": {
+    "category": "record",
+    "sounds": [{
+      "name": "buriki",
+	  "stream": true
+    }]
+  },
+  "arukaremia_": {
+    "category": "record",
+    "sounds": [{
+      "name": "arukaremia",
+	  "stream": true
+    }]
+  },
+  "seikainohate_": {
+    "category": "record",
+    "sounds": [{
+      "name": "shijiemori",
+	  "stream": true
+    }]
+  },
+  "aidowa_": {
+    "category": "record",
+    "sounds": [{
+      "name": "aidowa",
+	  "stream": true
+    }]
+  },
+  "kokyuu_": {
+    "category": "record",
+    "sounds": [{
+      "name": "kokyuu",
+	  "stream": true
+    }]
+  },
+  "monitalingu_": {
+    "category": "record",
+    "sounds": [{
+      "name": "monitalingu",
+	  "stream": true
+    }]
+  },
+  "nightglow_": {
+    "category": "record",
+    "sounds": [{
+      "name": "nightglow",
+	  "stream": true
+    }]
+  },
+  "gangnamstyle_": {
+    "category": "record",
+    "sounds": [{
+      "name": "style",
+	  "stream": true
+    }]
+  },
+  "shenjing_": {
+    "category": "record",
+    "sounds": [{
+      "name": "teladehaizao",
+	  "stream": true
+    }]
+  },
+  "memeshe_": {
+    "category": "record",
+    "sounds": [{
+      "name": "memeshe",
+	  "stream": true
+    }]
+  },
+  "666kaiguile_": {
+    "category": "record",
+    "sounds": [{
+      "name": "666kaiguile",
+	  "stream": true
+    }]
+  },
+  "watashitachinokuesuto_": {
+    "category": "record",
+    "sounds": [{
+      "name": "watashitachinokuesuto",
+	  "stream": true
+    }]
+  },
+  "fuyunohana_": {
+    "category":"record",
+    "sounds":[{
+      "name":"fuyunohana",
+    "stream":true
+    }]
+  },
+  "tongtong_": {
+    "category":"record",
+    "sounds":[{
+      "name":"tongtong",
+    "stream":true
+    }]
+},
+  "zattoubokuranomati_": {
+    "category":"record",
+    "sounds":[{
+      "name":"zattoubokuranomati",
+    "stream":true
+  }]
+},
+  "fuxiaoproiproi_": {
+    "category":"record",
+    "sounds":[{
+      "name":"fuxiaoproiproi",
+    "stream":true
+    }]
+  },
+    "destruction321_": {
+    "category":"record",
+    "sounds":[{
+      "name":"destruction321",
+    "stream":true
+    }]
+  },
+    "miniworld_": {
+    "category":"record",
+    "sounds":[{
+      "name":"miniworld",
+    "stream":true
+    }]
+  },
+    "shibass_": {
+    "category":"record",
+    "sounds":[{
+      "name":"shibass",
+    "stream":true
+    }]
+  },
+    "lavachicken1_": {
+    "category":"record",
+    "sounds":[{
+      "name":"lavachicken1",
+    "stream":true
+    }]
+  },
+    "mochouxiang_": {
+    "category":"record",
+    "sounds":[{
+      "name":"mochouxiang",
+    "stream":true
+    }]
+    },
+    "stay_": {
+    "category":"record",
+    "sounds":[{
+      "name":"stay",
+    "stream":true
+    }]
+    },
+    "distortedfate_": {
+    "category":"record",
+    "sounds":[{
+      "name":"distortedfate",
+    "stream":true
+    }]
+    },
+    "yaoban_": {
+    "category":"record",
+    "sounds":[{
+      "name":"yaoban",
+    "stream":true
+    }]
+    },
+    "hezhe_": {
+    "category":"record",
+    "sounds":[{
+      "name":"hezhe",
+    "stream":true
+    }]
+    },
+    "starrail_": {
+    "category":"record",
+    "sounds":[{
+      "name":"starrail",
+    "stream":true
+    }]
+    },
+    "shabi_": {
+    "category":"record",
+    "sounds":[{
+      "name":"shabi",
+    "stream":true
+    }]
+},
+  "phigrostheme2_": {
+    "category":"record",
+    "sounds":[{
+     "name":"phigrostheme2",
+    "stream":true
+  }]
+},
+  "papipupika_": {
+    "category":"record",
+    "sounds":[{
+     "name":"papipupika",
+    "stream":true
+  }]
+},
+  "nevergonnagiveyouup_": {
+    "category":"record",
+    "sounds":[{
+     "name":"nevergonnagiveyouup",
+    "stream":true
+  }]
+},
+  "maobamaoba_": {
+    "category":"record",
+    "sounds":[{
+     "name":"maobamaoba",
+    "stream":true
+  }]
+},
+  "bing_": {
+    "category":"record",
+    "sounds":[{
+     "name":"bing",
+    "stream":true
+  }]
+},
+  "comealive_": {
+    "category":"record",
+    "sounds":[{
+     "name":"comealive",
+    "stream":true
+  }]
+},
+  "onthejourney_": {
+    "category":"record",
+    "sounds":[{
+     "name":"onthejourney",
+    "stream":true
+  }]
+},
+  "neonlighttherapy_":{
+    "category":"record",
+    "sounds":[{
+      "name":"neonlighttherapy",
+    "stream":true
+    }]
+},
+  "haiyorokonde_":{
+    "category":"record",
+    "sounds":[{
+      "name":"haiyorokonde",
+    "stream":true
+    }]
+},
+  "gang_":{
+    "category":"record",
+    "sounds":[{
+      "name":"gang",
+    "stream":true
+    }]
+},
+  "lemon_":{
+    "category":"record",
+    "sounds":[{
+      "name":"lemon",
+    "stream":true
+    }]
+}
+}
