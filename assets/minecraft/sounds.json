@@ -278,5 +278,12 @@
       "name":"lemon",
     "stream":true
     }]
+},
+  "enzi_":{
+    "category":"record",
+    "sounds":[{
+      "name":"enzi",
+    "stream":true
+    }]
 }
 }

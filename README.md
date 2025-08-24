@@ -41,6 +41,7 @@
 - Lemon `lemon_`
 - 缸 `gang_`
 - はいよろこんで `haiyorokonde_`
+- 臙脂 ft. 重音テト `enzi_`
 
 ## 指令
 
