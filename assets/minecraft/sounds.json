@@ -285,5 +285,12 @@
       "name":"enzi",
     "stream":true
     }]
+},
+  "monitalingu_remix_":{
+    "category":"record",
+    "sounds":[{
+      "name":"monitalinguremix",
+    "stream":true
+    }]
 }
 }
