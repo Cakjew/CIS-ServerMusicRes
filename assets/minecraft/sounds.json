@@ -292,5 +292,12 @@
       "name":"monitalinguremix",
     "stream":true
     }]
+},
+  "unwelcome-school_":{
+    "category":"record",
+    "sounds":[{
+      "name":"unwelcome-school",
+    "stream":true
+    }]
 }
 }
